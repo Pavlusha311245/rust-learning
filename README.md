@@ -12,4 +12,19 @@ https://doc.rust-lang.ru/book
    into number
 4. Variable and mutability `vars_and_mut`. Learned about variables, mutability, and constants.
 5. Data Types `data_types`. Learned about scalar and compound data types.
-6. 
+6. Functions `functions`. Learned how to declare and use functions, including parameters and return values
+7. Control Flow `control_flow`. Learned about if expressions and loops.
+
+## Compilation and Running
+
+Projects without Cargo:
+
+```bash
+rustc main.rs && ./main
+```
+
+Projects with Cargo:
+
+```bash
+cargo run
+```
