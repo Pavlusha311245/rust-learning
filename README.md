@@ -15,7 +15,8 @@ https://doc.rust-lang.ru/book
 6. Functions `functions`. Learned how to declare and use functions, including parameters and return values
 7. Control Flow `control_flow`, `fibonacci`, `temperature`, `song`. Learned about if expressions and loops.
 8. Ownership `ownership`, `slice`, `string_slice`. Learned about ownership, borrowing, and slices.
-9. Structs `structs`. Learned about structs.
+9. Structs `structs`, `rectangle`. Learned about structs and methods.
+10. Enums `enums`, `ip_addr`, `message`.
 
 ## Compilation and Running
 
